@@ -5,10 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Spiri/Documents/GitHub/FA24-HenrichsenM-SimA/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Spiri/Documents/GitHub/FA24-HenrichsenM-SimA/Content/Levels/Level_0.umap",
+				"C:/Users/Spiri/Documents/GitHub/FA24-HenrichsenM-SimA/Content/UserInterface/BaseLevel.uasset",
+				"C:/Users/Spiri/Documents/GitHub/FA24-HenrichsenM-SimA/Content/UserInterface/Menu.uasset",
+				"C:/Users/Spiri/Documents/GitHub/FA24-HenrichsenM-SimA/Content/CustomBlueprints/AmmoPickup.uasset",
 				"C:/Users/Sharp/Documents/GitHub/FA24-HenrichsenM-SimA/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/Sharp/Documents/GitHub/FA24-HenrichsenM-SimA/Content/First_Level.umap",
 				"C:/Users/Sharp/Documents/GitHub/FA24-HenrichsenM-SimA/Content/Levels/Level_1.umap",
-				"C:/Users/Spiri/Documents/GitHub/FA24-HenrichsenM-SimA/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/Sharp/Documents/Unreal Projects/CS310H_HW1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
